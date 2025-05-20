@@ -9,7 +9,7 @@
 
 นายสิทธิชัย ทองมาก 65102010202
 
-เสนอ : อาจารย์ ผศ.ดร. รัตน์ชัยนันท์ ธรรมสุจริต
+#### เสนอ : อาจารย์ ผศ.ดร. รัตน์ชัยนันท์ ธรรมสุจริต
 
 
 ## บทนำ
@@ -25,6 +25,8 @@
 2.[Data Preparation](#2data-preparation)
 
 3.[Exploratory Data Analysis](#3exploratory-data-analysis)
+
+4.[In-Depth Analysis](#4-in-depth-analysis)
 
 
 ## Overview
@@ -76,7 +78,10 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ---
 
-## In-Depth Analysis
+## 4. In-Depth Analysis
+
+หฟกหฟก
+หฟกหฟก
 
 
 
