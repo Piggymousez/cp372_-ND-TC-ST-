@@ -22,7 +22,7 @@
 ## สารบัญ
 1.[Overview](#overview)
 
-2.sadasd
+2.[Exploratory Data Analysis](##Exploratory Data Analysis)
 
 
 ## Overview
@@ -35,13 +35,35 @@
 
 # Tool
 
-Colab : ใช้สำหรับทำความสะอาดและเตรียมข้อมูล (Data Cleaning & Preprocessing)
+Colab : ใช้สำหรับทำความสะอาดและเตรียมข้อมูล (Data Cleaning & Preprocessing), สร้างฟิลด์ใหม่
 
 Excel : ตรวจสอบและสำรวจข้อมูลเบื้องต้น วิเคราะห์เบื้องต้นก่อนนำข้อมูลเข้าสู่เครื่องมือ
 
 Tableau : วิเคราะห์และนำเสนอข้อมูลผ่านกราฟและแผนภาพ เพื่อแสดงแนวโน้มและความสัมพันธ์ของข้อมูลได้ชัดเจนยิ่งขึ้น
 
 ---
+
+## Exploratory Data Analysis
+
+![image](https://github.com/user-attachments/assets/8189e897-76ea-4fd1-9466-7cbce131d0f8)
+
+![image](https://github.com/user-attachments/assets/5e8ac3f8-d284-4176-af27-3e44652c4c8f)
+
+![image](https://github.com/user-attachments/assets/b90f3d8e-2f22-4d78-bbe3-c1a9ba19f4fc)
+
+![image](https://github.com/user-attachments/assets/fb33da01-73fb-4fdf-9b00-bc93d6a1b596)
+
+![image](https://github.com/user-attachments/assets/7f53a229-87e3-48bd-9a70-26cf7878e1ce)
+
+![image](https://github.com/user-attachments/assets/28d07c60-d16f-46d2-ab33-c4a510306b3d)
+
+![image](https://github.com/user-attachments/assets/a033c6e0-fe88-4cfe-b59e-c5238ce2ed8b)
+
+
+หฟก
+
+
+
 
 
 
