@@ -20,15 +20,15 @@
 
 
 ## สารบัญ
-1.[Overview](#overview)
+[Overview](#overview)
 
-2.[Data Preparation](#2data-preparation)
+[Data Preparation](#2data-preparation)
 
-3.[Exploratory Data Analysis](#3exploratory-data-analysis)
+[Exploratory Data Analysis](#3exploratory-data-analysis)
 
-4.[In-Depth Analysis](#4-in-depth-analysis)
+[In-Depth Analysis](#4-in-depth-analysis)
 
-5.[Insights & Recommendations](#5-insights--recommendations)
+[Insights & Recommendations](#5-insights--recommendations)
 
 ## Overview
 
