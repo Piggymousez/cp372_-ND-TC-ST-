@@ -22,7 +22,9 @@
 ## สารบัญ
 1.[Overview](#overview)
 
-2.[Exploratory Data Analysis](##Exploratory Data Analysis)
+2.[Data Preparation](#2data-preparation)
+
+3.[Exploratory Data Analysis](#3exploratory-data-analysis)
 
 
 ## Overview
@@ -42,8 +44,21 @@ Excel : ตรวจสอบและสำรวจข้อมูลเบื
 Tableau : วิเคราะห์และนำเสนอข้อมูลผ่านกราฟและแผนภาพ เพื่อแสดงแนวโน้มและความสัมพันธ์ของข้อมูลได้ชัดเจนยิ่งขึ้น
 
 ---
+## 2.Data Preparation
 
-## Exploratory Data Analysis
+### 2.1 Data Cleaning (ทำความสะอาดข้อมูล)
+![image](https://github.com/user-attachments/assets/9e1c2894-f9b3-46ea-873b-9c98b716e744)
+
+![image](https://github.com/user-attachments/assets/c851c3d2-0a48-4536-8d43-41f04f4ac8ec)
+
+### 2.2 Feature Engineering (สร้างฟิลด์ใหม่)
+![image](https://github.com/user-attachments/assets/0b0f622e-5ba3-406f-b4ef-c65485efc982)
+
+
+
+---
+
+## 3.Exploratory Data Analysis
 
 ![image](https://github.com/user-attachments/assets/8189e897-76ea-4fd1-9466-7cbce131d0f8)
 
@@ -59,8 +74,10 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ![image](https://github.com/user-attachments/assets/a033c6e0-fe88-4cfe-b59e-c5238ce2ed8b)
 
+---
 
-หฟก
+## In-Depth Analysis
+
 
 
 
