@@ -128,9 +128,13 @@ USA: คล้าย Canada ยอดขายสูงช่วงพ.ค. แ�
 
 - จากกราฟแสดงให้เห็นว่าสินค้าประเภท Dark Chocolate มียอดขายเฉลี่ยมากกว่าสินค้าประเภทอื่น
 
-6. การสร้าง Visualization ใน Tableau
+## 6. Visualization ใน Tableau
 
-https://public.tableau.com/app/profile/nonthawat.deekham/viz/ProjectDataAnalytic_17477715549080/In-DepthAnalysisQuestion?publish=yes
+- https://public.tableau.com/app/profile/nonthawat.deekham/viz/ProjectDataAnalytic_17477715549080/In-DepthAnalysisQuestion?publish=yes
+  
+- https://public.tableau.com/app/profile/nonthawat.deekham/viz/ProjectDataAnalytic_17477715549080/sheet12?publish=yes
+  
+- https://public.tableau.com/app/profile/nonthawat.deekham/viz/ProjectDataAnalytic_17477715549080/Detail?publish=yes
 
 
 
