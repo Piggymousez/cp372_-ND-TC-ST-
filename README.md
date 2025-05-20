@@ -83,19 +83,17 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ## 3.Exploratory Data Analysis
 
-![image](https://github.com/user-attachments/assets/7d616e0a-e79c-4a3d-8776-fb5105a80c0d)
+![image](https://github.com/user-attachments/assets/97d3302f-6f5d-41f5-b836-fa324870e7c8)
 
-![image](https://github.com/user-attachments/assets/58b3717e-58ef-4405-80b4-37a102cd36d5)
+![image](https://github.com/user-attachments/assets/f846be6d-8b8f-47ff-8012-9afa86aff51a)
 
-![image](https://github.com/user-attachments/assets/7f704c90-1d18-4d5e-9beb-9e4d64be251c)
+![image](https://github.com/user-attachments/assets/6ebe2a7d-8a6d-494d-b497-6cac4d2c7b3b)
 
-![image](https://github.com/user-attachments/assets/fb33da01-73fb-4fdf-9b00-bc93d6a1b596)
+![image](https://github.com/user-attachments/assets/ce7a75dd-7197-4fb8-ad2d-da8a483df29c)
 
-![image](https://github.com/user-attachments/assets/7f53a229-87e3-48bd-9a70-26cf7878e1ce)
+![image](https://github.com/user-attachments/assets/3a198bf4-eb25-43eb-a17b-1875c6d0b86c)
 
-![image](https://github.com/user-attachments/assets/28d07c60-d16f-46d2-ab33-c4a510306b3d)
-
-![image](https://github.com/user-attachments/assets/a033c6e0-fe88-4cfe-b59e-c5238ce2ed8b)
+![image](https://github.com/user-attachments/assets/1b1d673c-e250-431c-868f-397b82fdbb97)
 
 ---
 
