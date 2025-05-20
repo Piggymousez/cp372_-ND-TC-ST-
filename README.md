@@ -87,7 +87,7 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ![image](https://github.com/user-attachments/assets/58b3717e-58ef-4405-80b4-37a102cd36d5)
 
-![image](https://github.com/user-attachments/assets/b90f3d8e-2f22-4d78-bbe3-c1a9ba19f4fc)
+![image](https://github.com/user-attachments/assets/7f704c90-1d18-4d5e-9beb-9e4d64be251c)
 
 ![image](https://github.com/user-attachments/assets/fb33da01-73fb-4fdf-9b00-bc93d6a1b596)
 
