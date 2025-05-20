@@ -62,9 +62,9 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ## 3.Exploratory Data Analysis
 
-![image](https://github.com/user-attachments/assets/8189e897-76ea-4fd1-9466-7cbce131d0f8)
+![image](https://github.com/user-attachments/assets/7d616e0a-e79c-4a3d-8776-fb5105a80c0d)
 
-![image](https://github.com/user-attachments/assets/5e8ac3f8-d284-4176-af27-3e44652c4c8f)
+![image](https://github.com/user-attachments/assets/58b3717e-58ef-4405-80b4-37a102cd36d5)
 
 ![image](https://github.com/user-attachments/assets/b90f3d8e-2f22-4d78-bbe3-c1a9ba19f4fc)
 
