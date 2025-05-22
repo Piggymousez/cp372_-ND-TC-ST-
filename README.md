@@ -175,6 +175,7 @@ USA: คล้าย Canada ยอดขายสูงช่วงพ.ค. แ�
 
 โครงการนี้ยังช่วยพัฒนาทักษะด้าน Data Analytics และ Business Intelligence ผ่านการใช้เครื่องมือวิเคราะห์ข้อมูล เช่น Excel และ Tableau ซึ่งสามารถนำไปประยุกต์ใช้ในบริบททางธุรกิจอื่น ๆ ได้ต่อไป
 
+## Youtube Presentation : https://www.youtube.com/watch?v=s7ZDrxnhsZE
 
 
 
